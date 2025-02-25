@@ -219,6 +219,73 @@ END
 ![image](https://github.com/user-attachments/assets/f73ffd1f-8b3e-4bbe-b195-0103ae480d34)
 
 
+# Findings #
+
+**1. Store Management & Locations**
+.The business operates multiple stores, each managed by a dedicated staff member.
+.The full address details (street, district, city, and country) of each store are well-maintained.
+.Insight: The buyer can visit the stores and evaluate operations firsthand before finalizing the acquisition.
+
+**2. Inventory Overview**
+.Each store has a diverse collection of films, categorized by title, rating, rental rate, and replacement cost.
+.The inventory varies in replacement costs, which indicates potential risk if a category becomes unpopular.
+.Insight: The business has a structured and trackable inventory system, making asset valuation easier for the buyer.
+
+**3. Inventory Summary by Rating**
+.The stores stock films across multiple ratings, but the distribution varies per location.
+.Some stores have a higher inventory count in specific rating categories.
+.Insight: The buyer should analyze customer preferences to ensure the right mix of film ratings is maintained for each store.
+
+**4. Financial Risk in Inventory (Replacement Cost Analysis)**
+.Some film categories have a higher average replacement cost.
+.Stores with a high concentration of expensive films could face larger financial losses if those categories lose popularity.
+.Insight: The buyer may need to adjust film stock or introduce new categories to mitigate risks.
+
+**5. Customer Base & Engagement**
+.The business has an active customer base across multiple stores.
+.Customer records include names, store associations, and addresses, ensuring easy communication and marketing opportunities.
+.Insight: The buyer can leverage this customer data for targeted marketing campaigns and retention strategies.
+
+**6. Revenue & Customer Value**
+.A significant portion of revenue comes from a small group of high-value customers.
+.The business relies on repeat rentals, highlighting the importance of customer loyalty.
+.Insight: The buyer should focus on maintaining strong relationships with these top customers while also attracting new customers.
+
+**7. Investor & Advisor Details**
+.The business has a structured advisory and investor board.
+.Investors are linked to specific companies, and advisors provide strategic guidance.
+.Insight: The buyer can leverage these advisors and investors to understand business decisions and future opportunities.
+
+**8. Film Coverage of Award-Winning Actors**
+.The store covers a good percentage of actors with multiple awards (Emmy, Oscar, Tony).
+.However, the coverage of actors with only one award is lower.
+.Insight: Expanding inventory to include more films featuring award-winning actors may attract more movie enthusiasts.
+
+# Suggestions #
+
+**1. Store Optimization & Expansion**
+Evaluate store performance and consider consolidating underperforming locations.
+Introduce store-specific promotions based on customer preferences.
+
+**2. Inventory Management**
+Balance inventory distribution to match demand trends.
+Reduce dependence on high-replacement-cost films if their rental rates are low.
+
+**3. Customer Retention Strategies**
+Implement loyalty programs for repeat customers.
+Offer targeted discounts or memberships for high-value customers.
+
+**4. Financial & Risk Management**
+Diversify film inventory to minimize financial risk from replacement costs.
+Consider insurance or damage protection plans for high-cost films.
+
+**5. Marketing & Branding**
+Use customer data to run personalized marketing campaigns.
+Advertise exclusive collections of award-winning films to attract cinephiles.
+
+**6. Business Acquisition Strategy**
+Engage with existing investors and advisors to understand growth potential.
+Leverage historical revenue data to negotiate the acquisition price effectively.
 
 
 
